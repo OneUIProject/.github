@@ -1,7 +1,6 @@
 ## <img align="left" loading="lazy" src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="30" /> Libraries
-(will be moved to this organization in future)
-- [OneUI Design Library](https://github.com/Yanndroid/OneUI-Design-Library)
-- [sesl appcompat](https://github.com/BlackMesa123/sesl-appcompat)
+- [OneUI Design Library](https://github.com/Yanndroid/OneUI-Design-Library) (will be moved to this organization in future)
+- [Samsung Experience Support Library](https://github.com/OneUIProject/sesl)
 
 ## <img align="left" loading="lazy" src="https://github.com/Yanndroid/Yanndroid/blob/master/cats.gif" width="30" /> Apps
 <img align="left" src="https://raw.githubusercontent.com/BlackMesa123/PrivacyDashboard-OneUI/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" height="25"/> [PrivacyDashboard OneUI](https://github.com/BlackMesa123/PrivacyDashboard-OneUI)
