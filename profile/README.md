@@ -1,9 +1,9 @@
-<h2 align="center">
+<h3 align="center">
 
 [![](https://img.shields.io/badge/Telegram-Group-blue.svg?style=for-the-badge&logo=Telegram)](https://t.me/oneuiproject)
 [![](https://img.shields.io/badge/XDA-Thread-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers)](https://forum.xda-developers.com/t/dev-library-5-0-oneui-design-library-2-2-1.4387485/)
 
-</h2>
+</h3>
 
 # Libraries
 ## [Samsung Experience Support Library](https://github.com/OneUIProject/sesl)
