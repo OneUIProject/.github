@@ -10,7 +10,7 @@
 This repo contains a collection of the libraries used by Samsung in their One UI apps.
 Samsung's One UI apps are created by using an heavily modified version of Google's [Android Jetpack](https://github.com/androidx/androidx) and [Material Components](https://github.com/material-components/material-components-android) libraries, that include a different styling of the UI, DeX/S Pen support, new features and much more. The intent of this library is to make those Samsung UX elements available to everyone for study, modding or whatever feels right for you.
 
-## [OneUI Design Library](https://github.com/Yanndroid/OneUI-Design-Library) (deprecated)
+## [OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library) (deprecated)
 A library for Android, useful for creating Samsung's OneUI **3 and 4** styled apps. This library contains a theme which will apply for most views in your layout, and a lot of additional custom OneUI views and Samsung Icons. The text which is in the custom views is translated to 90 languages, so you don't need to worry about these. Android 5.0 (api 21) and above are supported, the library also supports Dark mode, Landscape, Tablet, DeX and RTL.
 
 # Apps
