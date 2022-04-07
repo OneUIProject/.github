@@ -14,12 +14,12 @@ Samsung's One UI apps are created by using an heavily modified version of Google
 A library for Android, useful for creating Samsung's OneUI **3 and 4** styled apps. This library contains a theme which will apply for most views in your layout, and a lot of additional custom OneUI views and Samsung Icons. The text which is in the custom views is translated to 90 languages, so you don't need to worry about these. Android 5.0 (api 21) and above are supported, the library also supports Dark mode, Landscape, Tablet, DeX and RTL.
 
 # Apps
-[<img src="readme-res/PrivacyDashboard.png" height="50"/>](https://github.com/BlackMesa123/PrivacyDashboard-OneUI)
+[<img src="profile/readme-res/PrivacyDashboard.png" height="50"/>](https://github.com/BlackMesa123/PrivacyDashboard-OneUI)
 
-[<img src="readme-res/hKtweaks.png" height="50"/>](https://github.com/Yanndroid/hKtweaks-OneUI)
+[<img src="profile/readme-res/hKtweaks.png" height="50"/>](https://github.com/Yanndroid/hKtweaks-OneUI)
 
-[<img src="readme-res/Sudoku.png" height="50"/>](https://github.com/Yanndroid/Sudoku)
+[<img src="profile/readme-res/Sudoku.png" height="50"/>](https://github.com/Yanndroid/Sudoku)
 
-[<img src="readme-res/Notifer.png" height="50"/>](https://github.com/Yanndroid/Notifer)
+[<img src="profile/readme-res/Notifer.png" height="50"/>](https://github.com/Yanndroid/Notifer)
 
-[<img src="readme-res/Metronome.png" height="50"/>](https://github.com/Yanndroid/Metronome)
+[<img src="profile/readme-res/Metronome.png" height="50"/>](https://github.com/Yanndroid/Metronome)
