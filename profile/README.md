@@ -21,3 +21,8 @@
 [<img src="profile/readme-res/Notifer.png" height="50"/>](https://github.com/Yanndroid/Notifer)
 
 [<img src="profile/readme-res/Metronome.png" height="50"/>](https://github.com/Yanndroid/Metronome)
+
+## References
+- [One UI Design Guidelines](https://developer.samsung.com/one-ui)
+- [One UI Design Guidelines (pdf)](https://design.samsung.com/global/contents/one-ui/download/oneui_design_guide_eng.pdf)
+- [Samsung EULA](https://www.samsung.com/sg/Legal/SamsungLegal-EULA/)
