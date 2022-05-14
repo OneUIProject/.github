@@ -1,21 +1,17 @@
-<h3 align="center">
+[![](https://img.shields.io/badge/Telegram-OneUI_Project-blue.svg?style=for-the-badge&logo=Telegram)](https://t.me/oneuiproject)
+[![](https://img.shields.io/badge/Maven-OneUI_Project-C71A36.svg?style=for-the-badge&logo=apache)](https://mvnrepository.com/artifact/io.github.oneuiproject)
 
-[![](https://img.shields.io/badge/Telegram-Group-blue.svg?style=for-the-badge&logo=Telegram)](https://t.me/oneuiproject)
-[![](https://img.shields.io/badge/XDA-Thread-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers)](https://forum.xda-developers.com/t/dev-library-5-0-oneui-design-library-2-2-1.4387485/)
+## Libraries
 
-</h3>
+|Libraries|Maintained|OneUI 4|OneUI 3| |
+|-|:-:|:-:|:-:|-|
+|[oneui design](https://github.com/OneUIProject/oneui-design)|:white_check_mark:|:white_check_mark:|:x:| wrapper for ``sesl`` |
+|[OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library)|:x:|:white_check_mark:|:white_check_mark:| replaced by ``oneui design`` |
+|[sesl](https://github.com/OneUIProject/sesl)|:white_check_mark:|:white_check_mark:|:x:| modified [androidx](https://github.com/androidx/androidx) |
+|[seslw](https://github.com/OneUIProject/seslw)|:white_check_mark:|:white_check_mark:|:x:| ``sesl`` for Wear OS |
 
-# Libraries
-## [Samsung Experience Support Library](https://github.com/OneUIProject/sesl)
-Modified versions of Google's [Android Jetpack](https://github.com/androidx/androidx) and [Material Components](https://github.com/material-components/material-components-android) libraries with Samsung's One UI elements.
 
-## [Samsung Experience Support Library (Wear OS)](https://github.com/OneUIProject/seslw)
-Modified version of Google's [Android Jetpack](https://github.com/androidx/androidx) library with Samsung's One UI Watch elements.
-
-## [OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library) (deprecated)
-Android library with Samsung's OneUI 3 and 4 components.
-
-# Apps
+## Apps
 [<img src="profile/readme-res/PrivacyDashboard.png" height="50"/>](https://github.com/BlackMesa123/PrivacyDashboard-OneUI)
 
 [<img src="profile/readme-res/hKtweaks.png" height="50"/>](https://github.com/Yanndroid/hKtweaks-OneUI)
