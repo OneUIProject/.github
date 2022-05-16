@@ -1,4 +1,6 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/logo.png" width=65%>
+  <br>
   <a href="https://t.me/oneuiproject"><img src="https://img.shields.io/badge/Telegram-OneUI_Project-blue.svg?style=for-the-badge&logo=Telegram"/></a>
   <a href="https://mvnrepository.com/artifact/io.github.oneuiproject"><img src="https://img.shields.io/badge/Maven-OneUI_Project-C71A36.svg?style=for-the-badge&logo=apache"/></a>
 </p>
