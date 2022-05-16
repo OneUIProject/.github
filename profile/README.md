@@ -29,30 +29,30 @@ Developer
 
 ## Mods
 <a href="https://github.com/BlackMesa123/PrivacyDashboard-OneUI"><img align="left" height="50" src="https://raw.githubusercontent.com/BlackMesa123/PrivacyDashboard-OneUI/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/></a>
-**hKtweaks OneUI**  
+**Privacy Dashboard OneUI**  
 One UI styled Privacy Dashboard app.
 <br clear="left"/>
 
 <a href="https://github.com/Yanndroid/hKtweaks-OneUI"><img align="left" height="50" src="https://github.com/Yanndroid/hKtweaks-OneUI/blob/master/readme-res/icon.png"/></a>
 **hKtweaks OneUI**  
-OneUI-Themed version of Corsicanu's hKtweaks.
+OneUI themed version of [corsicanu](https://github.com/corsicanu)'s hKtweaks.
 <br clear="left"/>
 
 
 ## Apps
 <a href="https://github.com/Yanndroid/Sudoku"><img align="left" height="50" src="https://github.com/Yanndroid/Sudoku/blob/master/readme-res/icon.png"/></a>
 **Sudoku**  
-Android sudoku game and solver with OneUI design.
+Sudoku game and solver with One UI design.
 <br clear="left"/>
 
 <a href="https://github.com/Yanndroid/Notifer"><img align="left" height="50" src="https://github.com/Yanndroid/Notifer/raw/master/readme-res/icon.png"/></a>
 **Notifer**  
-Notification Transfer to WebSocket.
+WebSocket notification transfer app with One UI design.
 <br clear="left"/>
 
 <a href="https://github.com/Yanndroid/Metronome"><img align="left" height="50" src="https://github.com/Yanndroid/Metronome/blob/master/readme-res/icon.png"/></a>
 **Metronome**  
-Android metronome app with OneUI design.
+Metronome app with One UI design.
 <br clear="left"/>
 
 ## References
