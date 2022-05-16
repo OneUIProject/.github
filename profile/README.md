@@ -27,17 +27,33 @@ Developer
 |[oneui-design](https://github.com/OneUIProject/oneui-design)|:white_check_mark:|:white_check_mark:|:x:|:x:|
 |[OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library)|:x:|:white_check_mark:|:white_check_mark:|:x:|
 
+## Mods
+<a href="https://github.com/BlackMesa123/PrivacyDashboard-OneUI"><img align="left" height="50" src="https://raw.githubusercontent.com/BlackMesa123/PrivacyDashboard-OneUI/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/></a>
+**hKtweaks OneUI**  
+One UI styled Privacy Dashboard app.
+<br clear="left"/>
+
+<a href="https://github.com/Yanndroid/hKtweaks-OneUI"><img align="left" height="50" src="https://github.com/Yanndroid/hKtweaks-OneUI/blob/master/readme-res/icon.png"/></a>
+**hKtweaks OneUI**  
+OneUI-Themed version of Corsicanu's hKtweaks.
+<br clear="left"/>
+
 
 ## Apps
-[<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/PrivacyDashboard.png" height="50"/>](https://github.com/BlackMesa123/PrivacyDashboard-OneUI)
+<a href="https://github.com/Yanndroid/Sudoku"><img align="left" height="50" src="https://github.com/Yanndroid/Sudoku/blob/master/readme-res/icon.png"/></a>
+**Sudoku**  
+Android sudoku game and solver with OneUI design.
+<br clear="left"/>
 
-[<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/hKtweaks.png" height="50"/>](https://github.com/Yanndroid/hKtweaks-OneUI)
+<a href="https://github.com/Yanndroid/Notifer"><img align="left" height="50" src="https://github.com/Yanndroid/Notifer/raw/master/readme-res/icon.png"/></a>
+**Notifer**  
+Notification Transfer to WebSocket.
+<br clear="left"/>
 
-[<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/Sudoku.png" height="50"/>](https://github.com/Yanndroid/Sudoku)
-
-[<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/Notifer.png" height="50"/>](https://github.com/Yanndroid/Notifer)
-
-[<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/Metronome.png" height="50"/>](https://github.com/Yanndroid/Metronome)
+<a href="https://github.com/Yanndroid/Metronome"><img align="left" height="50" src="https://github.com/Yanndroid/Metronome/blob/master/readme-res/icon.png"/></a>
+**Metronome**  
+Android metronome app with OneUI design.
+<br clear="left"/>
 
 ## References
 - [One UI Design Guidelines](https://developer.samsung.com/one-ui)
