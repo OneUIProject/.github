@@ -56,8 +56,3 @@ WebSocket notification transfer app with One UI design.
 **Metronome**  
 Metronome app with One UI design.
 <br clear="left"/>
-
-## References
-- [One UI Design Guidelines](https://developer.samsung.com/one-ui)
-- [One UI Design Guidelines (pdf)](https://design.samsung.com/global/contents/one-ui/download/oneui_design_guide_eng.pdf)
-- [Samsung EULA](https://www.samsung.com/sg/Legal/SamsungLegal-EULA/)
