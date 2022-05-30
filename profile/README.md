@@ -22,12 +22,11 @@ Developer
 <br clear="left"/>
 
 ## Libraries
-|Libraries|Maintained|OneUI 4|OneUI 3|OneUI Watch|
-|-|:-:|:-:|:-:|:-:|
-|[sesl](https://github.com/OneUIProject/sesl)|:white_check_mark:|:white_check_mark:|:x:|:x:|
-|[seslw](https://github.com/OneUIProject/seslw)|:white_check_mark:|:x:|:x:|:white_check_mark:|
-|[oneui-design](https://github.com/OneUIProject/oneui-design)|:white_check_mark:|:white_check_mark:|:x:|:x:|
-|[OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library)|:x:|:white_check_mark:|:white_check_mark:|:x:|
+|Libraries|Maintained|OneUI 4|OneUI 3|
+|-|:-:|:-:|:-:|
+|[sesl](https://github.com/OneUIProject/sesl)|:white_check_mark:|:white_check_mark:|:x:|
+|[oneui-design](https://github.com/OneUIProject/oneui-design)|:white_check_mark:|:white_check_mark:|:x:|
+|[OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library)|:x:|:white_check_mark:|:white_check_mark:|
 
 ## Mods
 <a href="https://github.com/BlackMesa123/PrivacyDashboard-OneUI"><img align="left" height="50" src="https://raw.githubusercontent.com/BlackMesa123/PrivacyDashboard-OneUI/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/></a>
