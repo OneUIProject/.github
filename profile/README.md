@@ -24,7 +24,7 @@ Developer
 ## Libraries
 |Libraries|Maintained|OneUI 4|OneUI 3|
 |-|:-:|:-:|:-:|
-|[sesl](https://github.com/OneUIProject/sesl)|:white_check_mark:|:white_check_mark:|:x:|
+|[oneui-core / sesl](https://github.com/OneUIProject/sesl)|:white_check_mark:|:white_check_mark:|:x:|
 |[oneui-design](https://github.com/OneUIProject/oneui-design)|:white_check_mark:|:white_check_mark:|:x:|
 |[OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library)|:x:|:white_check_mark:|:white_check_mark:|
 
