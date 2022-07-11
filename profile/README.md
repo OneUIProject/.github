@@ -8,7 +8,7 @@
 ## Our team
 <a href="https://github.com/Yanndroid"><img align="left" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/57589186?v=4&h=100&w=100&fit=cover&mask=circle"/></a>
 
-### Yanndroid [<img src="https://avatars.githubusercontent.com/u/476675?s=200&v=4" height="30" />](https://paypal.me/YanndroidDev) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" />](https://t.me/yanndroid) [<img src="https://i.redd.it/snoovatar/avatars/1144c6a5-4319-4405-b719-3ff9483b2dcf.png" height="30" />](https://www.reddit.com/user/Yanndroid)
+### Yanndroid [<img src="https://avatars.githubusercontent.com/u/476675?s=200&v=4" height="30" />](https://paypal.me/YanndroidDev) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" />](https://t.me/yanndroid) [<img src="https://charlottenc.gov/cats/PublishingImages/Reddit_Mark_OnWhite.png" height="30" />](https://www.reddit.com/user/Yanndroid)
 Project founder, Developer
 
 <br clear="left"/>
