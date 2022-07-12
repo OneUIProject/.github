@@ -30,6 +30,7 @@ Developer
 
 ## Miscs
 * [**android-studio-sec-fonts**](https://github.com/OneUIProject/android-studio-sec-fonts)
+* [**oneui-icons**](https://oneuiproject.github.io/icons)
 
 ## Apps
 <a href="https://github.com/Yanndroid/DualWallpaper"><img align="left" height="50" src="https://github.com/Yanndroid/DualWallpaper/blob/master/readme-res/icon.png"/></a>
