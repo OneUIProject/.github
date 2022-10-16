@@ -22,15 +22,25 @@ Developer
 <br clear="left"/>
 
 ## Libraries
-|Libraries|Maintained|OneUI 4|OneUI 3|
-|-|:-:|:-:|:-:|
-|[oneui-core](https://github.com/OneUIProject/sesl)|:white_check_mark:|:white_check_mark:|:x:|
-|[oneui-design](https://github.com/OneUIProject/oneui-design)|:white_check_mark:|:white_check_mark:|:x:|
-|[OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library)|:x:|:white_check_mark:|:white_check_mark:|
+
+### [oneui-core](https://github.com/OneUIProject/sesl)
+Aka sesl. Contains multiple libraries which are heavily modified versions of Google's [Android Jetpack](https://github.com/androidx/androidx) and [Material Components](https://github.com/material-components/material-components-android) libraries. They replace the stock libraries completely.  
+`Maintained` `OneUI 4`
+
+### [oneui-design](https://github.com/OneUIProject/oneui-design)
+This is an addition to [oneui-core](https://github.com/OneUIProject/sesl). It provides a lot of custom views which makes development much easier.  
+`Maintained` `OneUI 4`
+
+### [oneui-icons](https://oneuiproject.github.io/icons) 
+Contains 900+ OneUI icons found in Samsung apps.  
+`Maintained` `OneUI 4`
+
+### [OneUI Design Library](https://github.com/OneUIProject/OneUI-Design-Library) - deprecated
+Predecessor of [oneui-core](https://github.com/OneUIProject/sesl), [oneui-design](https://github.com/OneUIProject/oneui-design) and [oneui-icons](https://oneuiproject.github.io/icons). Therefore deprecated and no longer maintained.  
+`OneUI 3` `OneUI 4`
 
 ## Miscs
-* [**android-studio-sec-fonts**](https://github.com/OneUIProject/android-studio-sec-fonts)
-* [**oneui-icons**](https://oneuiproject.github.io/icons)
+* [**android-studio-sec-fonts**](https://github.com/OneUIProject/android-studio-sec-fonts) fixes render issues in Android Studio
 
 ## Apps
 <a href="https://github.com/Yanndroid/DualWallpaper"><img align="left" height="50" src="https://github.com/Yanndroid/DualWallpaper/blob/master/readme-res/icon.png"/></a>
@@ -55,9 +65,14 @@ Sudoku game and solver with One UI design.
 
 
 ## Mods
+<a href="https://github.com/Yanndroid/Magisk-OneUI"><img align="left" height="50" src="https://github.com/Yanndroid/Yanndroid/blob/master/readme-res/magisk.png"/></a>
+**Magisk OneUI**  
+One UI styled Magisk app.
+<br clear="left"/>
+
 <a href="https://github.com/Yanndroid/hKtweaks-OneUI"><img align="left" height="50" src="https://github.com/Yanndroid/hKtweaks-OneUI/blob/master/readme-res/icon.png"/></a>
 **hKtweaks OneUI**  
-OneUI themed version of [corsicanu](https://github.com/corsicanu)'s hKtweaks.
+One UI styled version of [corsicanu](https://github.com/corsicanu)'s hKtweaks app.
 <br clear="left"/>
 
 <a href="https://github.com/BlackMesa123/PrivacyDashboard-OneUI"><img align="left" height="50" src="https://raw.githubusercontent.com/BlackMesa123/PrivacyDashboard-OneUI/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/></a>
