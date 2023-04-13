@@ -43,7 +43,7 @@ Predecessor of [oneui-core](https://github.com/OneUIProject/sesl), [oneui-design
 * [**android-studio-sec-fonts**](https://github.com/OneUIProject/android-studio-sec-fonts) fixes render issues in Android Studio
 
 ## Apps
-<a href="https://github.com/Yanndroid/DualWallpaper"><img align="left" height="50" src="https://github.com/Yanndroid/DualWallpaper/blob/master/readme-res/icon.png"/></a>
+<a href="https://github.com/Yanndroid/DualWallpaper"><img align="left" height="50" src="https://github.com/Yanndroid/DualWallpaper/blob/master/readme-res/icon_day.png"/></a>
 **DualWallpaper**  
 Customize your device even more by having two separate sets of wallpapers for light and dark mode.
 <br clear="left"/>
