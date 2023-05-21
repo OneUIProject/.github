@@ -8,7 +8,8 @@
 ## Our team
 <a href="https://github.com/Yanndroid"><img align="left" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/57589186?v=4&h=100&w=100&fit=cover&mask=circle"/></a>
 
-### Yanndroid [<img src="https://avatars.githubusercontent.com/u/476675?s=200&v=4" height="30" />](https://paypal.me/YanndroidDev) [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" />](https://t.me/yanndroid) [<img src="https://charlottenc.gov/cats/PublishingImages/Reddit_Mark_OnWhite.png" height="30" />](https://www.reddit.com/user/Yanndroid)
+### Yanndroid [<img src="readme-res/telegram.png" height="30" />](https://t.me/yanndroid) [<img src="readme-res/reddit.png" height="30" />](https://www.reddit.com/user/Yanndroid) [<img src="readme-res/playstore.png" height="30" />](https://play.google.com/store/apps/dev?id=5974502967924582562) [<img src="readme-res/paypal.png" height="30" />](https://paypal.me/YanndroidDev)
+
 Project founder, Developer
 
 <br clear="left"/>
@@ -16,7 +17,7 @@ Project founder, Developer
 
 <a href="https://github.com/BlackMesa123"><img align="left" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/13062958?v=4&h=100&w=100&fit=cover&mask=circle"/></a>
 
-### BlackMesa123 [<img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" height="30" />](https://t.me/salvo_giangri) [<img src="https://charlottenc.gov/cats/PublishingImages/Reddit_Mark_OnWhite.png" height="30" />](https://www.reddit.com/user/Ovlas02)
+### BlackMesa123 [<img src="readme-res/telegram.png" height="30" />](https://t.me/salvo_giangri) [<img src="readme-res/reddit.png" height="30" />](https://www.reddit.com/user/Ovlas02)
 Developer
 
 <br clear="left"/>
