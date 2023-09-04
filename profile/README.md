@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/logo.png" width=60%>
   <br><br>
-  <a href="https://t.me/oneuiproject"><img src="https://img.shields.io/badge/Telegram-OneUI_Project-blue.svg?style=for-the-badge&logo=Telegram"/></a>
+  <a href="https://t.me/oneuiproject"><img src="https://img.shields.io/badge/Telegram-OneUI_Project-blue.svg?style=for-the-badge&logo=Telegram"/></a> <a href="https://discord.gg/cFT73fzWmj"><img src="https://img.shields.io/badge/Discord-OneUI_Project-7289d9.svg?style=for-the-badge&logo=Discord"/></a>
   <a href="https://mvnrepository.com/artifact/io.github.oneuiproject"><img src="https://img.shields.io/badge/Maven-OneUI_Project-C71A36.svg?style=for-the-badge&logo=apache"/></a> <a href="https://oneuiproject.github.io/"><img src="https://img.shields.io/badge/GitHub-Wiki-lightgrey.svg?style=for-the-badge&logo=GitHub"/></a>
 </p>
 
