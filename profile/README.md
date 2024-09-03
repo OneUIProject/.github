@@ -6,20 +6,17 @@
 </p>
 
 ## Our team
+
 <a href="https://github.com/Yanndroid"><img align="left" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/57589186?v=4&h=100&w=100&fit=cover&mask=circle"/></a>
-
-### Yanndroid [<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/telegram.png" height="30" />](https://t.me/yanndroid) [<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/reddit.png" height="30" />](https://www.reddit.com/user/Yanndroid) [<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/playstore.png" height="30" />](https://play.google.com/store/apps/dev?id=5974502967924582562) [<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/paypal.png" height="30" />](https://paypal.me/YanndroidDev)
-
+### Yanndroid
 Project founder, Developer
-
 <br clear="left"/>
+
 <br>
 
-<a href="https://github.com/BlackMesa123"><img align="left" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/13062958?v=4&h=100&w=100&fit=cover&mask=circle"/></a>
-
-### BlackMesa123 [<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/telegram.png" height="30" />](https://t.me/salvo_giangri) [<img src="https://raw.githubusercontent.com/OneUIProject/.github/main/profile/readme-res/reddit.png" height="30" />](https://www.reddit.com/user/Ovlas02)
+<a href="https://github.com/salvogiangri"><img align="left" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/13062958?v=4&h=100&w=100&fit=cover&mask=circle"/></a>
+### Salvo Giangreco
 Developer
-
 <br clear="left"/>
 
 ## Libraries
@@ -62,21 +59,4 @@ WebSocket notification transfer app.
 <a href="https://github.com/Yanndroid/Sudoku"><img align="left" height="50" src="https://github.com/Yanndroid/Sudoku/blob/master/readme-res/icon.png"/></a>
 **Sudoku**  
 Sudoku game and solver with One UI design.
-<br clear="left"/>
-
-
-## Mods
-<a href="https://github.com/Yanndroid/Magisk-OneUI"><img align="left" height="50" src="https://github.com/Yanndroid/Yanndroid/blob/master/readme-res/magisk.png"/></a>
-**Magisk OneUI**  
-One UI styled Magisk app.
-<br clear="left"/>
-
-<a href="https://github.com/Yanndroid/hKtweaks-OneUI"><img align="left" height="50" src="https://github.com/Yanndroid/hKtweaks-OneUI/blob/master/readme-res/icon.png"/></a>
-**hKtweaks OneUI**  
-One UI styled version of [corsicanu](https://github.com/corsicanu)'s hKtweaks app.
-<br clear="left"/>
-
-<a href="https://github.com/BlackMesa123/PrivacyDashboard-OneUI"><img align="left" height="50" src="https://raw.githubusercontent.com/BlackMesa123/PrivacyDashboard-OneUI/main/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"/></a>
-**Privacy Dashboard OneUI**  
-One UI styled Privacy Dashboard app.
 <br clear="left"/>
