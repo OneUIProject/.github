@@ -19,6 +19,13 @@ Project founder, Developer
 Developer
 <br clear="left"/>
 
+<br>
+
+<a href="https://github.com/tribalfs"><img align="left" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/65062033?v=4&h=100&w=100&fit=cover&mask=circle"/></a>
+### Tribalfs
+Developer
+<br clear="left"/>
+
 ## Libraries
 
 ### [oneui-core](https://github.com/OneUIProject/sesl)
